@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "update me",
+    "password": "update me",
+    "database": "update me",
+    "host": "update me",
+    "dialect": "sqlite"
+  },
+  "production": {
+    "username": "update me",
+    "password": "update me",
+    "database": "update me",
+    "host": "update me",
+    "dialect": "update me"
+  }
+}

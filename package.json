@@ -1,0 +1,19 @@
+{
+  "name": "timetracking-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "latest",
+    "debug": "latest",
+    "express": "latest",
+    "http-errors": "latest",
+    "morgan": "latest",
+    "pug": "latest",
+    "sequelize": "latest",
+    "jquery": "latest",
+    "sqlite3": "latest"
+  }
+}
