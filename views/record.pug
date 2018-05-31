@@ -1,0 +1,10 @@
+extends layout
+
+block content
+    div.record
+    p#currentTime Time
+    button.btn.btn-primary.btn-large#start(type='button') Start
+    button.btn.btn-primary.btn-large#end(type='button') End
+
+    script
+        include ../public/javascripts/record.js
